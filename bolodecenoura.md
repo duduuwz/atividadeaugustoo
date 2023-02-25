@@ -1,6 +1,6 @@
 #  Bolo de cenoura
 
-# Ingredients 
+# Ingredientes
 
 - 1/2 xícara (chá) de óleo
 - 3 cenouras médias raladas
