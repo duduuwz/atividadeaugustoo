@@ -3,7 +3,7 @@
 
 Olá ! Bem vindo ao meu livro de receitas :wave:
 
--   [Strogonoff de frango](https://github.com/Perkles/livro-receitas/blob/master/receitas/strogonoff.md)
--   [Salada Simples](https://github.com/Perkles/livro-receitas/blob/master/receitas/salada.md)
+-   [Strogonoff de frango](https://github.com/duduuwz/atividadeaugustoo/blob/main/receita.md#modo-de-preparo)
+-   [Salada Simples](https://github.com/duduuwz/atividadeaugustoo/blob/main/receitasalada.md)
 -   Bolo de Cenoura
 -   Pavê
